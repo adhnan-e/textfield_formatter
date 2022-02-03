@@ -1,0 +1,4 @@
+enum FormatterType {
+  lazy,
+  eager,
+}
